@@ -113,3 +113,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 <p align="center">
   <em>“Consistência vence talento quando talento não é consistente.”</em>
 </p>
+
